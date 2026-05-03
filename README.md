@@ -47,12 +47,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Reyan-kashif&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Reyan-kashif&color=blue&style=flat)
