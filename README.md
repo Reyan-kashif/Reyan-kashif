@@ -1,4 +1,4 @@
-# Hi 👋, I'm Reyan Kashif
+# Hi 👋, I'm Reyan
 
 ### Cybersecurity Student at GIK Institute | Building across embedded systems, security tooling, and full-stack web
 
